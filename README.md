@@ -28,10 +28,6 @@ Below is an example of what to expect when you open the webpage.
 
 ![Example of Webpage](/assets/images/Readme/screenshot-of-homepage.png)
 
-Battle Page
-
-![Battle Page](/assets/Images/Readme/battle-page.png)
-
 Player attack modal
 
 ![Weather Data Displayed](/assets/images/Readme/player-attack-modal.png)
